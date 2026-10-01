@@ -69,6 +69,6 @@ I am a results-driven **QA Automation Engineer** with 5 years of experience driv
 
 <br/>
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual github username to see your stats! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=themihirbhagat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual github username to see your stats! 
+  <img src="https://github-readme-stats.vercel.app/api?username=themihirbhagat&show_icons=true&theme=radical" alt="GitHub Stats" />-->
 </p>
